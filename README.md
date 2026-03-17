@@ -27,6 +27,12 @@ I will spend time on Discord answering questions asynchronously. Whenever possib
 - You'd like to sit and work a bit with me/other students nearby in case questions popup
 - Anything else, really!
 
+Cas, the PLA for the course, has office hours as follows:
+- Monday: 4-6PM, remote, in the Discord server voice channel
+- T-F: 11-1 PM, in person in Fuller Labs A22
+
+Cas has previously taken the course, has lots of additional graphics/shader experience to draw on, and can also help troubleshoot WebGPU+Linux compatability issues. They will also be helping answer questions in the Discord server aynchronously.
+
 ## Course Outline
 A best guess is provided for how much time should be spent on each assignment. Some might take less time, some might take a bit more depending on how invested you become in the individual assignment. This schedule will be updated / changed on a weekly basis; consider it a rough outline of the course (especially at the start of the course!), not a contract.
 
