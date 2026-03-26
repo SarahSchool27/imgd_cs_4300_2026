@@ -1,5 +1,6 @@
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- Jack Burke - https://github.com/JackBurke164/CS4300-Graphics.git
 - [Weilun Deng](https://github.com/wdeng123/imgd4300-webgpu-studio)
 - [Shawn Pande](https://d3bug64.codeberg.page/gsa/)
 - [Jacob Curtis] (https://jcurtis9218.github.io)
